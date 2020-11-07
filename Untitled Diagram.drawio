@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2020-11-07T08:59:15.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" version="13.9.2" etag="VVClkpMgl-9BzXt-YimA" type="github"><diagram id="eaiSYttQAYNuVCzqeMpj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-07T09:54:04.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="oollau1BBHKlw7qkxJAB" version="13.9.2" type="github">
+  <diagram id="eaiSYttQAYNuVCzqeMpj" name="Page-1">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lFEYEjmMCCaA2896edCS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="500" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lFEYEjmMCCaA2896edCS-2" value="Centrální řídící jednotka&lt;br&gt;Arduino MEGA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="500" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lFEYEjmMCCaA2896edCS-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lFEYEjmMCCaA2896edCS-4" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="610" as="sourcePoint" />
+            <mxPoint x="520" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFEYEjmMCCaA2896edCS-5" value="Lokomotivy&lt;br&gt;Arduino mini" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lFEYEjmMCCaA2896edCS-6" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="650" as="sourcePoint" />
+            <mxPoint x="390" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFEYEjmMCCaA2896edCS-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lFEYEjmMCCaA2896edCS-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lFEYEjmMCCaA2896edCS-10" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="680" as="sourcePoint" />
+            <mxPoint x="260" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFEYEjmMCCaA2896edCS-11" value="Návěstidla" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lFEYEjmMCCaA2896edCS-12" value="Kolejový obvod" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lFEYEjmMCCaA2896edCS-13" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389.66" y="460" as="sourcePoint" />
+            <mxPoint x="389.66" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFEYEjmMCCaA2896edCS-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lFEYEjmMCCaA2896edCS-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lFEYEjmMCCaA2896edCS-16" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="490" as="sourcePoint" />
+            <mxPoint x="260" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFEYEjmMCCaA2896edCS-17" value="Spínací bod přejezdu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lFEYEjmMCCaA2896edCS-18" value="Přejezd" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
